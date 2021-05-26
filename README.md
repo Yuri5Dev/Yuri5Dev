@@ -35,6 +35,5 @@ Sou um estudante de tecnologia e amo codar.
 
  <div>
   <a href="https://github.com/Yuri5Dev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yuri5Dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuri5Dev&layout=compact&langs_count=16&theme=dark"/>
 </div>
