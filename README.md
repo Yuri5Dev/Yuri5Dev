@@ -1,4 +1,4 @@
-## Oi, eu sou [Yuri Gonçalves!](https://linkedin.com/in/yuri-gonçalves-de-oliveira-6477101bb)  👋
+## Oi, eu sou [Yuri Oliveira!](https://linkedin.com/in/yuri-gonçalves-de-oliveira-6477101bb)  👋
 
 ### Sobre mim
 
