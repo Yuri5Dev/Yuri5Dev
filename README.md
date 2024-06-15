@@ -37,5 +37,5 @@ Sou um estudante de tecnologia e amo codar.
 
  <div>
   <a href="https://github.com/zionscript">
-  <img height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yokatsu&layout=compact&langs_count=16&theme=dark"/>
+  <img height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zionscript&layout=compact&langs_count=16&theme=dark"/>
 </div>
