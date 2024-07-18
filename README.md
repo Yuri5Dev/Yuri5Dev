@@ -1,11 +1,10 @@
-## Oi, eu sou [Yuri Oliveira!](https://linkedin.com/in/yuri-gonçalves-de-oliveira-6477101bb)  👋
+## Oi, eu sou [Yuri Oliveira!](https://linkedin.com/in/yuri2u)  👋
 
 ### Sobre mim
 
-Sou um estudante de tecnologia e amo codar.
+Sou um graduando em Analista de Sistemas.
 
-- 🔭 Atualmente estou trabalhando em casa.
-- 🎯 Mão No codigo.
+- 🎯 Foco em melhorar meus codigo.
 
 - projeto atual: [Solosia](https://solosia.com/)
 
